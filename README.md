@@ -4,7 +4,7 @@
 
 frontend developer : Aliasghat Ariahimehr
 
-backend developer : Taha mortazavi
+backend developer : 
 
 
-start project : 2023 , Dec , 28
+start project : 
